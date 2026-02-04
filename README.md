@@ -1,16 +1,27 @@
-## Hi there 👋
+# GUPIK STUDİO
+---
 
-<!--
-**GupikStudio/GupikStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐠 GUPIK STUDIO © 2025 By BUCA FSMAL GENÇTEK TEAM 🍊
+**[[Source Code](https://github.com/GupikStudio/)]**
 
-Here are some ideas to get you started:
+---
+#### 💻DEVELOPERS
+* **ProfDrOsman** (Mandalina Studio) - [@ProfDrOsman](https://github.com/ProfDrOsman) [@MandalinaStudio](https://github.com/MandalinaStudio)
+* **naTurhan** (Turhan Studio)
+* **DVLPR**
+* **DARKPİE**
+* **LedExploder**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🌐 Links
+* 🏠 [Gupik Studio Website](https://gupikstudio.github.io/)
+* 📋 [Gupik Dev Card](https://gupikdev.carrd.co/)
+* 📋 [Mandalina Dev Card](https://mandalinadev.carrd.co/)
+* 🍊 [Mandalina Studio GitHub](https://github.com/MandalinaStudio/)
+* 🐠 [Gupik Studio GitHub](https://github.com/GupikStudio/)
+* 🏫 [Our School](https://fsmal.meb.k12.tr/)
+  
+
+---
+
