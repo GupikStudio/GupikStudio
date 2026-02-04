@@ -2,8 +2,6 @@
 ---
 
 ### 🐠 GUPIK STUDIO © 2025 By BUCA FSMAL GENÇTEK TEAM 🍊
-**[[Source Code](https://github.com/GupikStudio/)]**
-
 ---
 #### 💻DEVELOPERS
 * **ProfDrOsman** (Mandalina Studio) - [@ProfDrOsman](https://github.com/ProfDrOsman) [@MandalinaStudio](https://github.com/MandalinaStudio)
